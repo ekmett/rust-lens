@@ -1,0 +1,5 @@
+[package]
+name = "lens"
+version = "0.1.0"
+authors = ["Edward Kmett <ekmett@gmail.com>"]
+
